@@ -1,0 +1,15 @@
+C:\Users\bsass\Revature\BrandonS\MyFirstDotnet\P0\bin\Debug\net6.0\P0.exe
+C:\Users\bsass\Revature\BrandonS\MyFirstDotnet\P0\bin\Debug\net6.0\P0.deps.json
+C:\Users\bsass\Revature\BrandonS\MyFirstDotnet\P0\bin\Debug\net6.0\P0.runtimeconfig.json
+C:\Users\bsass\Revature\BrandonS\MyFirstDotnet\P0\bin\Debug\net6.0\P0.dll
+C:\Users\bsass\Revature\BrandonS\MyFirstDotnet\P0\bin\Debug\net6.0\P0.pdb
+C:\Users\bsass\Revature\BrandonS\MyFirstDotnet\P0\obj\Debug\net6.0\P0.csproj.AssemblyReference.cache
+C:\Users\bsass\Revature\BrandonS\MyFirstDotnet\P0\obj\Debug\net6.0\P0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsass\Revature\BrandonS\MyFirstDotnet\P0\obj\Debug\net6.0\P0.AssemblyInfoInputs.cache
+C:\Users\bsass\Revature\BrandonS\MyFirstDotnet\P0\obj\Debug\net6.0\P0.AssemblyInfo.cs
+C:\Users\bsass\Revature\BrandonS\MyFirstDotnet\P0\obj\Debug\net6.0\P0.csproj.CoreCompileInputs.cache
+C:\Users\bsass\Revature\BrandonS\MyFirstDotnet\P0\obj\Debug\net6.0\P0.dll
+C:\Users\bsass\Revature\BrandonS\MyFirstDotnet\P0\obj\Debug\net6.0\refint\P0.dll
+C:\Users\bsass\Revature\BrandonS\MyFirstDotnet\P0\obj\Debug\net6.0\P0.pdb
+C:\Users\bsass\Revature\BrandonS\MyFirstDotnet\P0\obj\Debug\net6.0\P0.genruntimeconfig.cache
+C:\Users\bsass\Revature\BrandonS\MyFirstDotnet\P0\obj\Debug\net6.0\ref\P0.dll
